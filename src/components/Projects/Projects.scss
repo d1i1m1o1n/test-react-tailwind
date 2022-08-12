@@ -1,0 +1,33 @@
+.projects {
+  position: relative;
+  margin-bottom: 80px;
+
+  &__note {
+    padding: 24px 20px;
+    margin-bottom: 40px;
+    background: #fff;
+    border: 1px solid #947EFF;
+    box-shadow: 0 5px 20px rgba(0, 0, 0, 0.06), 0 24px 160px rgba(0, 0, 0, 0.02);
+    border-radius: 14px;
+    font-size: 14px;
+
+    &-title {
+      margin-bottom: 14px;
+      color: #9088FF;
+      text-transform: uppercase;
+      font-weight: 600;
+    }
+  }
+}
+
+@media screen and (min-width: 1280px) {
+  .projects {
+    margin-bottom: 0;
+
+    &__note {
+      position: absolute;
+      left: 50%;
+      top: 0;
+    }
+  }
+}
