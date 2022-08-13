@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/test-react-tailwind/static/css/main.accd3f63.css",
+    "main.js": "/test-react-tailwind/static/js/main.76e8072d.js",
+    "static/js/787.143b69dd.chunk.js": "/test-react-tailwind/static/js/787.143b69dd.chunk.js",
+    "static/media/javascript-anim@2x.png": "/test-react-tailwind/static/media/javascript-anim@2x.01aca50a3062407b8e7c.png",
+    "static/media/projects@2x.png": "/test-react-tailwind/static/media/projects@2x.ad50e064d3a884099348.png",
+    "static/media/javascript-anim.png": "/test-react-tailwind/static/media/javascript-anim.3d0e7a0ac5fe674171d7.png",
+    "static/media/projects.png": "/test-react-tailwind/static/media/projects.86bb5cd7d1a08b08c4fa.png",
+    "static/media/Golostextblack.woff": "/test-react-tailwind/static/media/Golostextblack.c26ebaaa773de6f9e610.woff",
+    "static/media/Golostextbold.woff": "/test-react-tailwind/static/media/Golostextbold.65c353ff1c6222db6b6d.woff",
+    "static/media/Golostextdemibold.woff": "/test-react-tailwind/static/media/Golostextdemibold.812cfc076488231610ef.woff",
+    "static/media/Golostextmedium.woff": "/test-react-tailwind/static/media/Golostextmedium.93a7b350654f3de5bf2d.woff",
+    "static/media/Golostextregular.woff": "/test-react-tailwind/static/media/Golostextregular.ec7d0d6496782977dd00.woff",
+    "static/media/Golostextblack.woff2": "/test-react-tailwind/static/media/Golostextblack.073cf07b34b7c6be7d92.woff2",
+    "static/media/Golostextbold.woff2": "/test-react-tailwind/static/media/Golostextbold.7aebee04f4f197d7b2f4.woff2",
+    "static/media/Golostextdemibold.woff2": "/test-react-tailwind/static/media/Golostextdemibold.339965ceebef0cae960f.woff2",
+    "static/media/Golostextmedium.woff2": "/test-react-tailwind/static/media/Golostextmedium.7e02ca4296f6398e22f9.woff2",
+    "static/media/Golostextregular.woff2": "/test-react-tailwind/static/media/Golostextregular.79beb6689f814c323459.woff2",
+    "static/media/atom.svg": "/test-react-tailwind/static/media/atom.47b2b40486599b91532f16a905c3c68a.svg",
+    "static/media/fullstack.svg": "/test-react-tailwind/static/media/fullstack.08b074fc08753fe7dd1efb5fbf873c39.svg",
+    "static/media/knowledge.svg": "/test-react-tailwind/static/media/knowledge.d8a3f0d45c40542b341b6164bb16eeec.svg",
+    "static/media/code.svg": "/test-react-tailwind/static/media/code.d920abfe7a1bbb5d090682860387b2e7.svg",
+    "static/media/command-line.svg": "/test-react-tailwind/static/media/command-line.9cc7894f07035b7bcab7eb8c781bf41a.svg",
+    "static/media/question.svg": "/test-react-tailwind/static/media/question.48cbc035cbff494f3720da03edb66d96.svg",
+    "index.html": "/test-react-tailwind/index.html",
+    "static/media/nodejs.svg": "/test-react-tailwind/static/media/nodejs.2772e41710db3e7ce31bf7480d633568.svg",
+    "main.accd3f63.css.map": "/test-react-tailwind/static/css/main.accd3f63.css.map",
+    "main.76e8072d.js.map": "/test-react-tailwind/static/js/main.76e8072d.js.map",
+    "787.143b69dd.chunk.js.map": "/test-react-tailwind/static/js/787.143b69dd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.accd3f63.css",
+    "static/js/main.76e8072d.js"
+  ]
+}
