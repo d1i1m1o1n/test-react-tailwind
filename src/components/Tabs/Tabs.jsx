@@ -10,7 +10,7 @@ const Tabs = ({children, className}) => {
 
   return (
     <div>
-      <div className={className}>
+      <div className={className} data-aos="zoom-in">
         {children.map((tab, index) => {
           const activeClass = index === activeTab ? '' : 'opacity-50';
 
