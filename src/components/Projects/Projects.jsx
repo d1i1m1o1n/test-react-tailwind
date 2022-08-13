@@ -14,7 +14,7 @@ const Projects = () => {
       <div className="mb-20 text-center text-sm">Проекты учеников</div>
 
       <div className="flex flex-wrap justify-around">
-        <div className="projects__note max-w-xs xl:-translate-x-[200%] xl:translate-y-28">
+        <div className="projects__note max-w-xs xl:-translate-x-[190%] 2xl:-translate-x-[200%] xl:translate-y-28">
           <div className="projects__note-title">2 Командных проекта</div>
           <p className="mb-4">Симуляция комерческого проекта - получаете ТЗ и организовываете командную разработку. Прокачивая навыки для будущей работы.</p>
           <p>
@@ -26,7 +26,7 @@ const Projects = () => {
           </p>
         </div>
 
-        <div className="projects__note max-w-sm xl:translate-x-[83%] xl:translate-y-64">
+        <div className="projects__note max-w-sm xl:translate-x-[63%] 2xl:translate-x-[83%] xl:translate-y-64">
           <div className="projects__note-title">Индивидуальные проекты</div>
           <p className="mb-4">
             Чтобы свободно чуствовать себя на позиции junior необходим опыт разработки.
